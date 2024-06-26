@@ -200,7 +200,7 @@ I have write some textbook of linear algebra. The idea is to use some new method
 - Volunteer, THU Help Room for undergraduate math study (2010-2012)
 - Website Designer, Columbia University CU Asia (2014-2015)
 - Events Organizer, Columbia University FCI (2014-2015)
-- Running Leader, University of Toronto 3M Running Club (2018 - Present)
+- Running Leader, University of Toronto 3M Running Club (2018 - 2020)
 
 ---
 
