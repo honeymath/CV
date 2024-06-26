@@ -206,7 +206,7 @@ I have write some textbook of linear algebra. The idea is to use some new method
 
 ## Skills
 
-- **Programming Languages:** Python, C++, Java
+- **Programming Languages:** Python, Java
 - **Web Development:** HTML, CSS, JavaScript
 - **Other:** LaTeX, Markdown
 
