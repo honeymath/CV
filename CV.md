@@ -1,10 +1,11 @@
 
 # Qirui Li
 
-**Email:** qiruili@postech.ac.kr  
+**Email:** honeymath@qirui.li 
 **Github:** [honeymath](https://github.com/honeymath)  
 **Website:** [http://qirui.li](http://qirui.li)  
 **Address:** Rm 311, Mathematical Science Building, 77 Cheongam-Ro, Nam-Gu, Pohang, Gyeongbuk, Korea 37673  
+[](personal_statement.md)
 
 ---
 
@@ -182,8 +183,17 @@ Pathflow simplifies the data processing process using XPath, JSONPath, and File 
 Technologies used: Python, Pyparse.
 
 
-**LLM APIs**
-Developing APIs for Large Language Models, which can be used for multiple purposes.
+
+**The QuizBooster for AI**
+
+It is the next version of honeymath. The QuizBooster is a platform for quiz-scripts that can be used for educators, AI trainers, and LLM developers. A quiz-script is a python code that provide instant feedback and automatic prompting to promote effectiveness and quality of LLM output. The answers provided by the LLM during doing a quiz makes the whole workflow tracaable and reproducible. The QuizBooster is a platform that can be used to create, share, test, and run quiz-scripts.
+[QuizBooster](github.com/honeymath/QuizBooster)
+
+
+
+
+
+
 
 
 ## Textbook of linear algebra
