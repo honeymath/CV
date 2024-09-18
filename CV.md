@@ -31,26 +31,26 @@
 ## Publications
 
 1. **Extensions of vector bundles on the Fargues-Fontaine curve**  
-   Published in: Journal of the Institute of Mathematics of Jussieu, Volume 21, Issue 2, March 2022, pp. 487 - 532  
+   Published in: **Journal of the Institute of Mathematics of Jussieu**, Volume 21, Issue 2, March 2022, pp. 487 - 532  
    [Arxiv: 1705.00710](https://arxiv.org/abs/1705.00710)
 
 2. **An Intersection formula of CM cycles on Lubin-Tate spaces**  
-   Published in: Duke Math. J. 171(9): 1923-2011 (15 June 2022)  
+   Published in: **Duke Math. J.** 171(9): 1923-2011 (15 June 2022)  
    [Arxiv: 1803.07553](https://arxiv.org/abs/1803.07553)
 
 3. **A proof of the linear Arithmetic Fundamental Lemma of GL4**  
-   Published in: Canadian Journal of Mathematics 74.2 (2022): 381-427  
+   Published in: **Canadian Journal of Mathematics** 74.2 (2022): 381-427  
    [Arxiv: 1907.00090](https://arxiv.org/abs/1907.00090)
 
 4. **On Keating's results of formal module endomorphisms lifting**  
    [Arxiv: 1902.10789](https://arxiv.org/abs/1902.10789)
 
 5. **Intersections in Lubin-Tate Space and bi-quadratic Fundamental Lemmas**  
-   With Ben Howard, accepted in: The American Journal of Mathematics  
+   With Ben Howard, accepted in: **The American Journal of Mathematics ** 
    [Arxiv: 2010.07365](https://arxiv.org/abs/2010.07365)
 
 6. **On the Linear AFL: The Non-Basic Case**  
-   With Andreas Mihatsch, accepted in: Compositio Mathematica;
+   With Andreas Mihatsch, accepted in: **Compositio Mathematica**;
    [ArXiv: 2208.10144](https://arxiv.org/abs/2208.10144)
 
 7. **A computational proof for the biquadratic Linear AFL for GL4**  
@@ -60,7 +60,7 @@
    With Wei Zhang and Andreas Mihatsch, in preparation
 
 9. **Arithmetic transfer for inner forms of GL2n**  
-   With Andreas Mihatsch, submitted to Forum of Mathematics, Sigma
+   With Andreas Mihatsch, submitted to **Forum of Mathematics, Sigma**
    [ArXiv: 2307.11716](https://arxiv.org/abs/2307.11716)
 
 ---
