@@ -1,11 +1,89 @@
 
 # Qirui Li
 
-**Email:** honeymath@qirui.li 
-**Github:** [honeymath](https://github.com/honeymath)  
-**Website:** [http://qirui.li](http://qirui.li)  
-**Address:** Rm 311, Mathematical Science Building, 77 Cheongam-Ro, Nam-Gu, Pohang, Gyeongbuk, Korea 37673  
+|  |  | 
+-|-
+**Email:** qiruili@postech.ac.kr </br> **Github:** [honeymath](https://github.com/honeymath) </br> **Website:** [http://qirui.li](http://qirui.li) </br>  **Address:** Rm 219, Mathematical Science Building, 77 Cheongam-Ro, Nam-Gu, Pohang, Gyeongbuk, Korea 37673|![IMAGE](w.jpg ':size=80%') 
+
+  
 [](personal_statement.md)
+
+
+---
+
+## Research Interests
+
+- Number Theory and Arithmetic Geometry
+- Automorphic Representations, Relative Trace Formulae
+- Elliptic curves, p-divisible groups, Shimura varieties
+
+---
+## Currently doing
+
+- Recently I am studying linear AFL on function fields. The difficult part is the non-triviality of the support of the perverse sheaves. The similar difficulty arises in many generalizations of Ngo's method to general Hecke functions. I will write a notes on the classification of invariants when studying orbits in Guo-Jacquet type of fundamental lemmas and compute several example on GL4 to show the non-triviality of the support.
+
+- A sloppy LLMOS by API of chatGPT. This is for interests only. I am trying to build an operation system powered by Large Language Models to automize my workflow. This saves me money from hiring a secretary.
+
+
+---
+
+## Publications
+
+1. **Extensions of vector bundles on the Fargues-Fontaine curve**  
+   Published in: Journal of the Institute of Mathematics of Jussieu, Volume 21, Issue 2, March 2022, pp. 487 - 532  
+   [Arxiv: 1705.00710](https://arxiv.org/abs/1705.00710)
+
+2. **An Intersection formula of CM cycles on Lubin-Tate spaces**  
+   Published in: Duke Math. J. 171(9): 1923-2011 (15 June 2022)  
+   [Arxiv: 1803.07553](https://arxiv.org/abs/1803.07553)
+
+3. **A proof of the linear Arithmetic Fundamental Lemma of GL4**  
+   Published in: Canadian Journal of Mathematics 74.2 (2022): 381-427  
+   [Arxiv: 1907.00090](https://arxiv.org/abs/1907.00090)
+
+4. **On Keating's results of formal module endomorphisms lifting**  
+   [Arxiv: 1902.10789](https://arxiv.org/abs/1902.10789)
+
+5. **Intersections in Lubin-Tate Space and bi-quadratic Fundamental Lemmas**  
+   With Ben Howard, accepted in: The American Journal of Mathematics  
+   [Arxiv: 2010.07365](https://arxiv.org/abs/2010.07365)
+
+6. **On the Linear AFL: The Non-Basic Case**  
+   With Andreas Mihatsch, accepted in: Compositio Mathematica;
+   [ArXiv: 2208.10144](https://arxiv.org/abs/2208.10144)
+
+7. **A computational proof for the biquadratic Linear AFL for GL4**  
+   [Draft: http://qirui.li/draftBFL.pdf](http://qirui.li/draftBFL.pdf)
+
+8. **Linear Arithmetic Fundamental Lemma for GL2-- Higher derivatives**  
+   With Wei Zhang and Andreas Mihatsch, in preparation
+
+9. **Arithmetic transfer for inner forms of GL2n**  
+   With Andreas Mihatsch, submitted to Forum of Mathematics, Sigma
+   [ArXiv: 2307.11716](https://arxiv.org/abs/2307.11716)
+
+---
+
+## Teaching Experience
+
+All lectures are English lectures.
+
+- **Linear Algebra (MATHS2010_001_2015_2)**: Summer 2015
+- **Linear Algebra (MATHS2010_002_2016_2)**: Summer 2016
+- **College Algebra (MATH1003_001_2017_1)**: Spring 2017
+- **Linear Algebra (MATHS2010_001_2017_2)**: Summer 2017
+- **Linear Algebra (MAT223)**: Fall 2018
+- **Differential Equations (MAT234)**: Spring 2019
+- **Linear Algebra (MAT224)**: Summer 2019
+- **Calculus (MAT135)**: Fall 2019
+- **Linear Algebra (MAT224)**: Winter 2020
+- **Linear Algebra (MAT224)**: Summer 2020
+- **Calculus (MAT135)**: Fall 2020
+- **Linear Algebra (MAT224)**: Winter 2021
+- **Linear Algebra (MAT224)**: Summer 2021
+- **Linear Algebra (MAT203)**: Fall 2023
+- **Elliptic Curves (MAT601)**: Spring 2024
+- **Algebraic Number Theory (MAT505)**: Fall 2024
 
 ---
 
@@ -36,96 +114,31 @@ Advisor: Prof. Wei Zhang
 
 **Tsinghua University, China**  
 *B.S., Mathematics*  
-*September 2009 - June 2013*  
+*September 2009 - June 2013* 
+<!-- 
 GPA: 92.7/100, Rank: 3/78  
 Fellowship in the Tsinghua Xuetang Talents Program  
 First Scholarship, **Three consecutive years**
 Thesis Advisor: Ye Tian
-
----
-
-## Research Interests
-
-- Number Theory and Arithmetic Geometry
-- Arithmetic Geometry, Gross--Zagier formula
-- Automorphic Representations, Relative Trace Formulae
-- Elliptic curves, p-divisible groups, Shimura varieties, Local Shtukas
-
----
-
-## Publications
-
-1. **Extensions of vector bundles on the Fargues-Fontaine curve**  
-   Published in: Journal of the Institute of Mathematics of Jussieu, Volume 21, Issue 2, March 2022, pp. 487 - 532  
-   [Arxiv: 1705.00710](https://arxiv.org/abs/1705.00710)
-
-2. **An Intersection formula of CM cycles on Lubin-Tate spaces**  
-   Published in: Duke Math. J. 171(9): 1923-2011 (15 June 2022)  
-   [Arxiv: 1803.07553](https://arxiv.org/abs/1803.07553)
-
-3. **A proof of the linear Arithmetic Fundamental Lemma of GL4**  
-   Published in: Canadian Journal of Mathematics 74.2 (2022): 381-427  
-   [Arxiv: 1907.00090](https://arxiv.org/abs/1907.00090)
-
-4. **On Keating's results of formal module endomorphisms lifting**  
-   [Arxiv: 1902.10789](https://arxiv.org/abs/1902.10789)
-
-5. **Intersections in Lubin-Tate Space and bi-quadratic Fundamental Lemmas**  
-   With Ben Howard, accepted in: The American Journal of Mathematics  
-   [Arxiv: 2010.07365](https://arxiv.org/abs/2010.07365)
-
-6. **On the Linear AFL: The Non-Basic Case**  
-   With Andreas Mihatsch, submitted  
-   [ArXiv: 2208.10144](https://arxiv.org/abs/2208.10144)
-
-7. **A computational proof for the biquadratic Linear AFL for GL4**  
-   [Draft: http://qirui.li/draftBFL.pdf](http://qirui.li/draftBFL.pdf)
-
-8. **Linear Arithmetic Fundamental Lemma for GL2-- Higher derivatives**  
-   With Wei Zhang and Andreas Mihatsch, in preparation
-
-9. **Arithmetic transfer for inner forms of GL2n**  
-   With Andreas Mihatsch, submitted  
-   [ArXiv: 2307.11716](https://arxiv.org/abs/2307.11716)
-
----
-
-## Teaching Experience
-
-- **Linear Algebra (MATHS2010_001_2015_2)**: Summer 2015
-- **Linear Algebra (MATHS2010_002_2016_2)**: Summer 2016
-- **College Algebra (MATH1003_001_2017_1)**: Spring 2017
-- **Linear Algebra (MATHS2010_001_2017_2)**: Summer 2017
-- **Linear Algebra (MAT223)**: Fall 2018
-- **Differential Equations (MAT234)**: Spring 2019
-- **Linear Algebra (MAT224)**: Summer 2019
-- **Calculus (MAT135)**: Fall 2019
-- **Linear Algebra (MAT224)**: Winter 2020
-- **Linear Algebra (MAT224)**: Summer 2020
-- **Calculus (MAT135)**: Fall 2020
-- **Linear Algebra (MAT224)**: Winter 2021
-- **Linear Algebra (MAT224)**: Summer 2021
-- **Linear Algebra (MAT203)**: Fall 2023
-- **Elliptic Curves (MAT601)**: Spring 2024
-
+-->
 ---
 
 ## Honors
 
 - The 5th New World Mathematics Gold Award for Thesis (September 2019)
-- Outstanding Graduates of Beijing
-- National Scholarship (2013)
-- The 1st Shing-Tung Yau High School Mathematics Award (2008) [http://www.china-maths.com/shuxue/news/773.htm](http://www.china-maths.com/shuxue/news/773.htm)
-- 2008 National High School Mathematics Olympiad Provincial First Prize (Provincial Ranking 9).  [https://www.xiaoxiaotong.org/AttachFile/180006/633697704227500000.pdf](https://www.xiaoxiaotong.org/AttachFile/180006/633697704227500000.pdf)
 
-#### Computer Science Honors:
-
-- 2008 National Youth Informatics Olympiad Provincial First Prize (Provincial Ranking 3) [http://www.xiaoxiaotong.org/AttachFile/180006/633697706512968750.pdf](http://www.xiaoxiaotong.org/AttachFile/180006/633697706512968750.pdf)
-
+<!--
+ Outstanding Graduates of Beijing
+ National Scholarship (2013)
+ The 1st Shing-Tung Yau High School Mathematics Award (2008) [http://www.china-maths.com/shuxue/news/773.htm](http://www.china-maths.com/shuxue/news/773.htm)
+ 2008 National High School Mathematics Olympiad Provincial First Prize (Provincial Ranking 9).  [https://www.xiaoxiaotong.org/AttachFile/180006/633697704227500000.pdf](https://www.xiaoxiaotong.org/AttachFile/180006/633697704227500000.pdf)
+ Computer Science Honors:
+ 2008 National Youth Informatics Olympiad Provincial First Prize (Provincial Ranking 3) [http://www.xiaoxiaotong.org/AttachFile/180006/633697706512968750.pdf](http://www.xiaoxiaotong.org/AttachFile/180006/633697706512968750.pdf)
+-->
 
 ---
 
-## Projects and development
+## Some Projects related to Education
 
 **Honeymath Platform**  
 *Description:* An online platform designed to enhance mathematics learning through interactive problem-solving and assignment management.  
@@ -166,29 +179,17 @@ Website: [https://honeymath.github.io/crossfiller/](https://honeymath.github.io/
 
 Technologies used: PixelJS, a game platform
 
-
-### Old projects
-
+<!-- Old projects
 **(Game)JumpChild**
-
 2003 This is a game I create for fun when I was a kid. The game attracts many of my classmates for testing.
-
-
-### Ongoing projects
-
+ Ongoing projects
 **PathFlow**
-
 Pathflow simplifies the data processing process using XPath, JSONPath, and File System Paths. It is motivated by mathematical way of representing symbols. It minimizes the code needed for buiding a prototype data processing pipeline. It simplifies the process of data update automation especially processing thoese data from internet. With the help of Large Language Model, it can be used in various applications.
-
 Technologies used: Python, Pyparse.
-
-
-
 **The QuizBooster for AI**
-
 It is the next version of honeymath. The QuizBooster is a platform for quiz-scripts that can be used for educators, AI trainers, and LLM developers. A quiz-script is a python code that provide instant feedback and automatic prompting to promote effectiveness and quality of LLM output. The answers provided by the LLM during doing a quiz makes the whole workflow tracaable and reproducible. The QuizBooster is a platform that can be used to create, share, test, and run quiz-scripts.
 [QuizBooster](github.com/honeymath/QuizBooster)
-
+-->
 
 
 
@@ -201,19 +202,14 @@ It is the next version of honeymath. The QuizBooster is a platform for quiz-scri
 I have write some textbook of linear algebra. The idea is to use some new method of introducing linear algebra. It uses projection matrix and Lagurange interpolation polynomial to simplifies everything. The book is still in progress.
 
 
-
----
-
-## Social Activities
-
-- Counselor, THU Lijiajie Psychological Consulting Hotline (2010-2012)
-- Volunteer, THU Help Room for undergraduate math study (2010-2012)
-- Website Designer, Columbia University CU Asia (2014-2015)
-- Events Organizer, Columbia University FCI (2014-2015)
-- Running Leader, University of Toronto 3M Running Club (2018 - 2020)
-
----
-
+<!--
+ Social Activities
+ Counselor, THU Lijiajie Psychological Consulting Hotline (2010-2012)
+ Volunteer, THU Help Room for undergraduate math study (2010-2012)
+ Website Designer, Columbia University CU Asia (2014-2015)
+ Events Organizer, Columbia University FCI (2014-2015)
+ Running Leader, University of Toronto 3M Running Club (2018 - 2020)
+-->
 ## Skills
 
 - **Programming Languages:** Python, Java

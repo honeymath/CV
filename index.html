@@ -6,8 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <!-- scripts to clean cache-->
+  <!-- scripts to clean cdaache-->
   <META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />  
   <!-- docsify css-->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 <!-- Accordion css-->
@@ -72,6 +75,12 @@
 
 <!-- /atleastzero/docsify-accordify -->
 <!--script src="//unpkg.com/docsify-accordify/src/index.js"></script-->
+
+<script>
+const script = document.createElement('script');
+script.src = 'CV.md?v=' + new Date().getTime();
+document.head.appendChild(script);
+</script>
 
 
 </body>
