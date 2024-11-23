@@ -60,7 +60,7 @@
    With Wei Zhang and Andreas Mihatsch, in preparation
 
 9. **Arithmetic transfer for inner forms of GL2n**  
-   With Andreas Mihatsch, submitted to **Forum of Mathematics, Sigma**
+   With Andreas Mihatsch, accepted in: **Forum of Mathematics, Sigma**
    [ArXiv: 2307.11716](https://arxiv.org/abs/2307.11716)
 
 ---
