@@ -161,8 +161,8 @@ Thesis Advisor: Ye Tian
 
 Row operation calculator increases learning experience by enabling students perform matrix operations more quickly. In contrast to other tools, this calculator is waiting for their action and let them learn by doing. This calculator is capable for finding inverse, eigenvectors and all other purposes.
 
-*Website*: [https://honeymath.com/mat/M/](https://honeymath.com/mat/M/) or [https://honeymath.github.io/matrixCalculator](https://honeymath.github.io/matrixCalculator)
-*Github*: [github.com/honeymath/matrixCalculator](github.com/honeymath/matrixCalculator)
+*Website*: [https://honeymath.com/mat/M/](https://honeymath.com/mat/M/) or [https://honeymath.github.io/matrixCalculator](https://honeymath.github.io/MatrixCalculator)
+*Github*: [github.com/honeymath/matrixCalculator](https://github.com/honeymath/MatrixCalculator)
 
 Vedio Explaination: [https://youtu.be/YK-WYlNLd_8](https://youtu.be/YK-WYlNLd_8)
 
