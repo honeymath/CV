@@ -161,7 +161,8 @@ Thesis Advisor: Ye Tian
 
 Row operation calculator increases learning experience by enabling students perform matrix operations more quickly. In contrast to other tools, this calculator is waiting for their action and let them learn by doing. This calculator is capable for finding inverse, eigenvectors and all other purposes.
 
-*Website*: [https://honeymath.com/mat/M/](https://honeymath.com/mat/M/)
+*Website*: [https://honeymath.com/mat/M/](https://honeymath.com/mat/M/) or [https://honeymath.github.io/matrixCalculator](https://honeymath.github.io/matrixCalculator)
+*Github*: [github.com/honeymath/matrixCalculator](github.com/honeymath/matrixCalculator)
 
 Vedio Explaination: [https://youtu.be/YK-WYlNLd_8](https://youtu.be/YK-WYlNLd_8)
 
@@ -177,6 +178,7 @@ Feature: This project promotes user experience with key-less input design. Finge
 Vedio Explaination:  [https://www.youtube.com/watch?v=wFCsh0A2ZnU](https://www.youtube.com/watch?v=wFCsh0A2ZnU)
 
 Website: [https://honeymath.github.io/crossfiller/](https://honeymath.github.io/crossfiller/)
+Github [github.com/honeymath/crossfiller](https://github.com/honeymath/crossfiller)
 
 Technologies used: PixelJS, a game platform
 
