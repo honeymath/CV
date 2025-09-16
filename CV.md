@@ -216,10 +216,12 @@ I have write some textbook of linear algebra. The idea is to use some new method
  Website Designer, Columbia University CU Asia (2014-2015)
  Events Organizer, Columbia University FCI (2014-2015)
  Running Leader, University of Toronto 3M Running Club (2018 - 2020)
+-->
 ## Skills
 
-- **Programming Languages:** Python, Java
-- **Web Development:** HTML, CSS, JavaScript
-- **Other:** LaTeX, Markdown
+<!--
+ **Programming Languages:** Python, Java
+ **Web Development:** HTML, CSS, JavaScript
+ **Other:** LaTeX, Markdown
 -->
 
