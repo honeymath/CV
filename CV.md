@@ -3,7 +3,18 @@
 
 |  |  | 
 -|-
-**Email:** qiruili@postech.ac.kr </br> **Github:** [honeymath](https://github.com/honeymath) </br> **Website:** [http://qirui.li](http://qirui.li) </br>  **Address:** Rm 219, Mathematical Science Building, 77 Cheongam-Ro, Nam-Gu, Pohang, Gyeongbuk, Korea 37673|![IMAGE](v.jpg ':size=80%') 
+**Email1:** 
+  qi‮o‪@p‬iliur‬st‮a.hce‬c‮rk.‬
+</br>
+**Email2:**
+  qi‮ta‪@m‬iliur‬h‮rotu.‬onto‮ac.‬
+</br>
+**Email3:**
+  q‮ta‪.m‬iuri‬h@‮amg‬il‮moc.‬
+</br>
+ **Github:** [honeymath](https://github.com/honeymath) </br> **Website:** [http://qirui.li](http://qirui.li) </br>  **Address:** Rm 219, Mathematical Science Building, 77 Cheongam-Ro, Nam-Gu, Pohang, Gyeongbuk, Korea 37673|![IMAGE](v.jpg ':size=80%') 
+
+
 
   
 
