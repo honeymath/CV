@@ -12,7 +12,7 @@
 **Email3:**
   q‮ta‪.m‬iuri‬h@‮amg‬il‮moc.‬
 </br>
- **Github:** [honeymath](https://github.com/honeymath) </br> **Website:** [http://qirui.li](http://qirui.li) </br> **Google Scholar:**[https://scholar.google.com/citations?user=1PTBpPMAAAAJ](https://scholar.google.com/citations?user=1PTBpPMAAAAJ)</br>**ORCID:**[0000-0002-6042-1291](https://orcid.org/my-orcid?orcid=0000-0002-6042-1291)</br> **Address:** Rm 219, Mathematical Science Building, 77 Cheongam-Ro, Nam-Gu, Pohang, Gyeongbuk, Korea 37673|![IMAGE](v.jpg ':size=80%') 
+ **Github:** [honeymath](https://github.com/honeymath) </br> **Website:** [http://qirui.li](http://qirui.li) </br> **Google Scholar:**[https://scholar.google.com/citations?user=1PTBpPMAAAAJ](https://scholar.google.com/citations?user=1PTBpPMAAAAJ)</br>**ORCID:**[0000-0002-6042-1291](https://orcid.org/0000-0002-6042-1291)</br> **Address:** Rm 219, Mathematical Science Building, 77 Cheongam-Ro, Nam-Gu, Pohang, Gyeongbuk, Korea 37673|![IMAGE](v.jpg ':size=80%') 
 
 
 
