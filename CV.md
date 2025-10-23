@@ -12,7 +12,7 @@
 **Email3:**
   q‮ta‪.m‬iuri‬h@‮amg‬il‮moc.‬
 </br>
- **Github:** [honeymath](https://github.com/honeymath) </br> **Website:** [http://qirui.li](http://qirui.li) </br>  **Address:** Rm 219, Mathematical Science Building, 77 Cheongam-Ro, Nam-Gu, Pohang, Gyeongbuk, Korea 37673|![IMAGE](v.jpg ':size=80%') 
+ **Github:** [honeymath](https://github.com/honeymath) </br> **Website:** [http://qirui.li](http://qirui.li) </br> **Google Scholar:**[https://scholar.google.com/citations?user=1PTBpPMAAAAJ](https://scholar.google.com/citations?user=1PTBpPMAAAAJ)</br>**ORCID:**[0000-0002-6042-1291](https://orcid.org/my-orcid?orcid=0000-0002-6042-1291)</br> **Address:** Rm 219, Mathematical Science Building, 77 Cheongam-Ro, Nam-Gu, Pohang, Gyeongbuk, Korea 37673|![IMAGE](v.jpg ':size=80%') 
 
 
 
@@ -30,28 +30,30 @@
 - Elliptic curves, p-divisible groups, Shimura varieties
 
 ---
-## Currently doing
+## Currently Working
 
-- Recently I am studying linear AFL on function fields. The difficult part is the non-triviality of the support of the perverse sheaves. The similar difficulty arises in many generalizations of Ngo's method to general Hecke functions. I will write a notes on the classification of invariants when studying orbits in Guo-Jacquet type of fundamental lemmas and compute several example on GL4 to show the non-triviality of the support.
+- Studying the **linear Arithmetic Fundamental Lemma (AFL)** over function fields, focusing on the **non-triviality of the support of perverse sheaves**, a central difficulty that also appears in extending **Ngô’s approach** to general Hecke functions.  
 
+- Published **Linear Algebra** teaching slides on [GitHub](https://github.com/honeymath/LinearAlgebraSlides).  
 
+- Exploring the use of **technology to advance mathematical research and education**.
 
 ---
 
 ## Publications
 
-4. **On Keating's results of formal module endomorphisms lifting**  
+1. **On Keating's results of formal module endomorphisms lifting**  
    [Arxiv: 1902.10789](https://arxiv.org/abs/1902.10789)
 
-1. **Extensions of vector bundles on the Fargues-Fontaine curve**  
+2. **Extensions of vector bundles on the Fargues-Fontaine curve**  
    Published in: **Journal of the Institute of Mathematics of Jussieu**, Volume 21, Issue 2, March 2022, pp. 487 - 532 https://doi.org/10.1017/S1474748020000183
    [Arxiv: 1705.00710](https://arxiv.org/abs/1705.00710)
 
-2. **An Intersection formula of CM cycles on Lubin-Tate spaces**  
+3. **An Intersection formula of CM cycles on Lubin-Tate spaces**  
    Published in: **Duke Math. J.** 171(9): 1923-2011 (15 June 2022)  https://doi.org/10.1215/00127094-2021-0062
    [Arxiv: 1803.07553](https://arxiv.org/abs/1803.07553)
 
-3. **A proof of the linear Arithmetic Fundamental Lemma of GL4**  
+4. **A proof of the linear Arithmetic Fundamental Lemma of GL4**  
    Published in: **Canadian Journal of Mathematics** 74.2 (2022): 381-427  https://doi.org/10.4153/S0008414X20000814 
    [Arxiv: 1907.00090](https://arxiv.org/abs/1907.00090)
 
@@ -60,16 +62,18 @@
    With Ben Howard, published 2025-06-03: **The American Journal of Mathematics ** https://doi.org/10.1353/ajm.2025.a961344
    [Arxiv: 2010.07365](https://arxiv.org/abs/2010.07365)
 
-7. **A computational proof for the biquadratic Linear AFL for GL4**  
+6. **A computational proof for the biquadratic Linear AFL for GL4**  
    [ArXiv: 2505.22625](https://arxiv.org/abs/2505.22625)
 
-6. **On the Linear AFL: The Non-Basic Case**  
+7. **On the Linear AFL: The Non-Basic Case**  
    With Andreas Mihatsch, 2025-06-23 published in: **Compositio Mathematica** https://doi.org/10.1112/S0010437X24007577;
    [ArXiv: 2208.10144](https://arxiv.org/abs/2208.10144)
 
-9. **Arithmetic transfer for inner forms of GL2n**  
+8. **Arithmetic transfer for inner forms of GL2n**  
    With Andreas Mihatsch, 2025-08-06 published in: **Forum of Mathematics, Sigma**  https://doi.org/10.1017/fms.2025.10034
    [ArXiv: 2307.11716](https://arxiv.org/abs/2307.11716)
+
+2 more papers is coming soon : )
 <!--8. **Linear Arithmetic Fundamental Lemma for GL2-- Higher derivatives**  
    With Wei Zhang and Andreas Mihatsch, in preparation
 -->
@@ -153,6 +157,11 @@ Thesis Advisor: Ye Tian
 ---
 
 ## Some Projects related to Education
+
+**Linear Algebra Slides**
+
+Available at:
+[https://github.com/honeymath/LinearAlgebraSlides](https://github.com/honeymath/LinearAlgebraSlides)
 
 **Honeymath Platform**  
 *Description:* An online platform designed to enhance mathematics learning through interactive problem-solving and assignment management.  
